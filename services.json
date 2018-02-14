@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "service_id": "ed1973e4cc5c77a44d904d45263dc4e9476be17fae146fcc32f701b379f5aee0",
+      "service_name": "E-petitions",
+      "agency": "Parliamentary Digital Service",
+      "registers": "Country"
+    },
+    {
+      "_id": 2,
+      "service_id": "62aaf76083cdef93f4f211d4f9d36808e6695a55d21eb7cd84378e47215dbbc2",
+      "service_name": "GOV.UK Pay",
+      "agency": "Cabinet Office",
+      "registers": "Country, Territory"
+    },
+    {
+      "_id": 3,
+      "service_id": "b9afdf719ac60bb93c96b56b7e153e892258ae29d476352d0d3842bbf513eab6",
+      "service_name": "Realtime Flood Monitoring",
+      "agency": "Environment Agency",
+      "registers": "Local Authority England"
+    },
+    {
+      "_id": 4,
+      "service_id": "90d3a11de8891d55d9288b5ffa8f0df64c4c68f2e5e402d062a810c5dc286af6",
+      "service_name": "Transparency In Supply Chains",
+      "agency": "TISCReport",
+      "registers": "Local Authority England, Local Authority Scotland, Principal Local Authority, Government Organisation"
+    },
+    {
+      "_id": 5,
+      "service_id": "1e26c696d75d56ca77139f9826bbe9b0452f23362c5c412e782e82cd90040ce2",
+      "service_name": "MapIt",
+      "agency": "MySociety",
+      "registers": "Local Authority England, Local Authority Scotland, Principal Local Authority"
+    },
+    {
+      "_id": 6,
+      "service_id": "b44fbe1d4ff47b856ba81c367d5df5807b6ce9b6ef5f8ff1a79c3eeebc72b7be",
+      "service_name": "Civil Service Jobs",
+      "agency": "Civil Service Human Resources",
+      "registers": "Country"
+    },
+    {
+      "_id": 7,
+      "service_id": "4ea22f4a90b3ebd296e58a8cd50bd0413d7efba18f80458285d6265cea5c37e8",
+      "service_name": "AppGov",
+      "agency": "AppGov",
+      "registers": "Country,Local Authority England, Local Authority Scotland, Principal Local Authority"
+    },
+    {
+      "_id": 8,
+      "service_id": "98435e65e23c2def9b0bf4aa7ba571243a632bd1e34467de0fc13f1d07397be4",
+      "service_name": "https://olib.uk/charity",
+      "agency": "CharityData",
+      "registers": "Local Authority England, Local Authority Scotland, Principal Local Authority"
+    },
+    {
+      "_id": 9,
+      "service_id": "eccd3120c3074e01f1fa38c24fcc739a8e509fa288c587b021718ebaa579b273",
+      "service_name": "Org-ID",
+      "agency": "org-id.guide",
+      "registers": "Government Organisation"
+    },
+    {
+      "_id": 10,
+      "service_id": "4d440838e7202968f56ce7f997f57a3ef2454aedef69d53f8ed256df58ce6931",
+      "service_name": "Defence Academy",
+      "agency": "MOD",
+      "registers": "Country"
+    }
+  ]
+}
